@@ -1,0 +1,8 @@
+bing.key
+db.sqlite3
+__pycache__/
+*.pyc
+.idea/
+AE1.iml
+misc.xml
+vcs.xml
